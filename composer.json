@@ -1,0 +1,13 @@
+{
+    "name": "dots-platform/cashback-test-api",
+    "description": "Client for contact with library cashback",
+    "type": "library",
+    "license": "Apache License",
+    "authors": [
+        {
+            "name": "Yehor Herasymchuk",
+            "email": "yehor@dotplatform.com"
+        }
+    ],
+    "require": {}
+}
