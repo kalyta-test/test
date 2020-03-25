@@ -9,7 +9,5 @@
             "email": "yehor@dotplatform.com"
         }
     ],
-    "require": {},
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    "require": {}
 }
